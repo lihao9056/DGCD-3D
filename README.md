@@ -1,3 +1,3 @@
-# DGCD3D
+# DGCD-3d
 
 The codes of Difference-Guided Conditional Diffusion Model architecture and training scripts.
