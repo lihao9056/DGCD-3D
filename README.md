@@ -6,7 +6,7 @@
 
 ## Overview
 
-DGCD-3D is a **conditional 3D diffusion model** for enhancing low-field (0.23T) DWI (Diffusion-Weighted Imaging) MRI scans to high-field (3T) quality. The model leverages anatomical masks as additional guidance to preserve structural details during the enhancement process.
+DGCD-3D is a **difference-guided conditional 3D diffusion model** for enhancing low-field (0.23T) DWI (Diffusion-Weighted Imaging) MRI scans to high-field (3T) quality. The model leverages anatomical masks as additional guidance to preserve stroke structural details during the enhancement process.
 
 ## Note
 
