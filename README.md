@@ -1,4 +1,4 @@
-# DGCD-3D: Deep Generative Conditional Diffusion for 3D DWI Enhancement
+# DGCD-3D: Difference-Guided Conditional Diffusion Model for Low-Field 3D MRI Enhancement to Assist Stroke Assessment
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c.svg)](https://pytorch.org/)
