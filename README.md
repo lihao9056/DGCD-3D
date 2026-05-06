@@ -40,7 +40,7 @@ dataset/
 
 - **Low-field images**: `{subject_id}_0.23T.nii.gz`
 - **High-field images**: `{subject_id}_3T.nii.gz`
-- **Masks**: `{subject_id}_0.23T.nii.gz` (same naming as low-field)
+- **Masks**: `{subject_id}_mask_0.23T.nii.gz`
 
 The dataset loader automatically pairs files based on matching `{subject_id}`.
 
