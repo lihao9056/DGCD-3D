@@ -36,13 +36,13 @@ def parse_args():
     
     # Data parameters
     parser.add_argument('-i', '--input_folder', type=str, 
-                        default='/data/lihao/SR 数据_256_天坛/训练数据/0.23T_DWI_1',
+                        default='./0.23T_DWI',
                         help='Path to low-field (0.23T) DWI images')
     parser.add_argument('-t', '--target_folder', type=str, 
-                        default='/data/lihao/SR 数据_256_天坛/训练数据/3T_DWI_1',
+                        default='./3T_DWI',
                         help='Path to high-field (3T) DWI images')
     parser.add_argument('-m', '--mask_folder', type=str, 
-                        default='/data/lihao/SR 数据_256_天坛/训练数据/MASK',
+                        default='./MASK',
                         help='Path to anatomical masks')
     
     # Model architecture parameters
